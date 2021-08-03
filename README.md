@@ -4,4 +4,4 @@
 * * a point
 
 
-Visit 1st [page](./page)
+Visit 1st [page](/page)
